@@ -1,0 +1,14 @@
+{
+  "name": "biscuit",
+  "version": "0.0.1",
+  "description": "A Discord bot that binds and converts Github webhooks for the Da Vinci organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel 'Gexo' Kraus",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "github:abalabahaha/eris#dev"
+  }
+}
